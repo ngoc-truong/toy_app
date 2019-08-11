@@ -1,24 +1,4 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app is a toy app build by following the (rails tutorial)[https://www.railstutorial.org/book/toy_app] by Michael Hartl.
+In this app scaffolding was used to get an overview of ruby on rails functionality.
